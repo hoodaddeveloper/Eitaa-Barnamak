@@ -74,7 +74,6 @@ class QuickEitaaApp {
       alert(success ? 'شماره دریافت شد' : 'لغو شد');
     });
   }
-
 }
 
 document.addEventListener('DOMContentLoaded', () => {
